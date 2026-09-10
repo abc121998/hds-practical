@@ -2,7 +2,6 @@
 
 ## Prerequisites
 Docker should already be installed
-Commands are fr
 
 ## Steps
 1. Clone this repository into your desired directory using the terminal
