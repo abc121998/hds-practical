@@ -7,7 +7,7 @@ Commands are fr
 ## Steps
 1. Clone this repository into your desired directory using the terminal
 ```
-        git clone https://github.com/abc121998/hds-practical
+git clone https://github.com/abc121998/hds-practical
 ```
 2. Run this command to move to the cloned directory in the terminal
 ```
