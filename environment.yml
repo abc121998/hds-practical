@@ -1,0 +1,8 @@
+name: lab1
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas=2.2
+prefix: C:\Users\AbbeyCotton\miniforge3\envs\lab1
